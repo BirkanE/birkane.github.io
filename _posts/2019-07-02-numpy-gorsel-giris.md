@@ -4,6 +4,7 @@ title:  "NumPy ve Veri Gösterimine Görsel Bir Giriş"
 author: birkan
 categories: [ Python ]
 image: https://jalammar.github.io/images/numpy/numpy-array.png
+tags: [ sticky ]
 ---
 
 Veri bilimi ile uğraşıp da NumPy kütüphanesini duymayan yoktur sanırım. Oldukça becerikli bu paket ile ilgili sayısız rehber, makale, vb. bulunsa da internette denk geldiğim "NumPy ve Veri Gösterimine Görsel Bir Giriş" yazısı çok hoşuma gitti ve belki birinin işine yarar diyerek tercüme etmek istedim. Yazının orijinaline buradan ulaşabilirsiniz. Yazarın diğer yazıları da oldukça sade ve anlaşılır. Onları da takip etmenizi tavsiye ederim.
