@@ -22,7 +22,7 @@ authors:
     birkan:
       name:           Birkan E.
       site:           
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         ./assets/images/avatar1.jpg
       bio:            ""
       email:          
       twitter:        
