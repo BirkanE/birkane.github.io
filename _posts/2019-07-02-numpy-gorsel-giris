@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Erteleme Sanatı"
+title:  "NumPy ve Veri Gösterimine Görsel Bir Giriş"
 author: birkan
 categories: [ Python, NumPy ]
 image: https://jalammar.github.io/images/numpy/numpy-array.png
